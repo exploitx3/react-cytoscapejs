@@ -66,7 +66,6 @@
     "node": ">=8.11.3"
   },
   "dependencies": {
-    "cytoscape": "git@github.com:exploitx3/cytoscape.js.git#check-for-destroyed-during-animation",
     "prop-types": "^15.6.2"
   }
 }
